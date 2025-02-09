@@ -1,7 +1,7 @@
 # DamageDoctor
 
 ## Set-Up
-Note: Set-up was done with `python 3.12.7` version
+Note: Set-up was done with `python 3.12.8` version
 General instructions to set up the environment for all experiments
 1. Create `venv` (virtual environment) with `python -m venv venv`
 2. Activate `venv` with `source venv/bin/activate`
